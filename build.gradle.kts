@@ -75,3 +75,5 @@ nexusPublishing {
         }
     }
 }
+
+apply(from = "gradle/jakartaee.gradle.kts")
